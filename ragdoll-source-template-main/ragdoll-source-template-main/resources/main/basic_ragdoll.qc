@@ -20,7 +20,7 @@ $model "studio" "model.smd" {
 	{<THIS PART IS VERY IMPORTANT IF YOUR MODEL HAS 3D EYES.>
 	flexcontroller eyes range -45 45 "eyes_updown"
 	flexcontroller eyes range -45 45 "eyes_rightleft"
-    <IF NOT,REMOVE IT.>}
+        <IF NOT,REMOVE IT.>}
 	
 	%insert shape key 1 = insert shape key 1
 	<IF NOT,REMOVE IT.>
@@ -71,8 +71,8 @@ $collisionjoints "model_physics.smd"
 	$rootbone "root bone"
 	
 	
-	$jointconstrain "insert bone name" insert x 0.0.0
-	$jointconstrain "insert bone name" insert y 0.0.0
-	$jointconstrain "insert bone name" insert z 0.0.0
+	$jointconstrain "insert bone name" insert x 0.00 0.00 0.00
+	$jointconstrain "insert bone name" insert y 0.00 0.00 0.00
+	$jointconstrain "insert bone name" insert z 0.00 0.00 0.00
 	
 	}
