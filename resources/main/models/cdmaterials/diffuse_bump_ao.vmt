@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/cdmaterials/inserttexturename"
+	"$AmbientOcclTexture" "models/cdmaterials/inserttexture_AOname"
+	$bumpmap "models/cdmaterials/inserttexture_bumpname"
+    $ambientocclusion 1
+}
