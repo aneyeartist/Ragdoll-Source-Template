@@ -11,7 +11,7 @@ def rename_bones():
         "bip_neck":                     "ValveBiped.Bip01_Neck1",
         "bip_head":                     "ValveBiped.Bip01_Head1",
         
-        "bip_shoulder_R":               "ValveBiped.Bip01_R_Clavicle",   
+        "bip_clavicle_R":               "ValveBiped.Bip01_R_Clavicle",   
         "bip_upperArm_R":               "ValveBiped.Bip01_R_UpperArm",   
         "bip_lowerArm_R":               "ValveBiped.Bip01_R_Forearm",
         "bip_hand_R":                   "ValveBiped.Bip01_R_Hand",    
@@ -32,7 +32,7 @@ def rename_bones():
         "bip_thumb_1_R":                "ValveBiped.Bip01_R_Finger01",
         "bip_thumb_2_R":                "ValveBiped.Bip01_R_Finger02",
         
-        "bip_shoulder_L":               "ValveBiped.Bip01_L_Clavicle",   
+        "bip_clavicle_L":               "ValveBiped.Bip01_L_Clavicle",   
         "bip_upperArm_L":               "ValveBiped.Bip01_L_UpperArm",   
         "bip_lowerArm_L":               "ValveBiped.Bip01_L_Forearm",
         "bip_hand_L":                   "ValveBiped.Bip01_L_Hand",    
