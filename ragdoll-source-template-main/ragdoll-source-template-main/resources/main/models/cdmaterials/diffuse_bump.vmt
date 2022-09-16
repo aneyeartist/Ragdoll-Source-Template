@@ -1,5 +1,0 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "models/cdmaterials/inserttexturename"
-	$bumpmap "models/cdmaterials/inserttexture_bumpname"
-}
