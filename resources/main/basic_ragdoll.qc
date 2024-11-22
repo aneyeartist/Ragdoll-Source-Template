@@ -45,10 +45,7 @@ $texturegroup "skinfamilies"
 	{ "altskinmaterialname"  "altskinmaterialname" }
 }
 
-
-<THIS PART IS VERY IMPORTANT IF YOUR MODEL HAS 3D EYES.>
 $attachment "eyes" "head_bone" 0.00 0.00 0.00 rotate 00 00 00
-<IF NOT,REMOVE IT.>
 $attachment "mouth" "head_bone" 0.00 0.00 0.00 rotate 00 00 00
 
 
