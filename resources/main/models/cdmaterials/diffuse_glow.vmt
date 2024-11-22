@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/cdmaterials/insertglowtexturename"
+	"$selfillum"		"1"	
+}

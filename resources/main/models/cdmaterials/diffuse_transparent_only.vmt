@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/cdmaterials/inserttransparenttexturename"
+	"$translucent" "1"
+	"$alphatest" "1"
+}
