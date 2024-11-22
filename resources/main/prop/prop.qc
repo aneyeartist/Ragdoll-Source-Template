@@ -17,10 +17,12 @@ $sequence "prop" {
 	loop
 }
 
-$collisionjoints "prop.smd"
+$collisionmodel "models_physics.smd"
 {
 	$mass 50
-	$inertia 10
-	$damping 0.01
-	$rotdamping 5
-	$rootbone "root"
+	$inertia 1
+	$damping 0
+	$rotdamping 0
+	$rootbone " "
+
+}
